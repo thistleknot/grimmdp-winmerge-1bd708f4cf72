@@ -1,0 +1,15 @@
+CREATE release\liblibxdiff.a
+ADDMOD release\xadler32.o
+ADDMOD release\xalloc.o
+ADDMOD release\xbdiff.o
+ADDMOD release\xbpatchi.o
+ADDMOD release\xdiffi.o
+ADDMOD release\xemit.o
+ADDMOD release\xmerge3.o
+ADDMOD release\xmissing.o
+ADDMOD release\xpatchi.o
+ADDMOD release\xprepare.o
+ADDMOD release\xrabdiff.o
+ADDMOD release\xutils.o
+ADDMOD release\xversion.o
+SAVE

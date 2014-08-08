@@ -1,0 +1,15 @@
+CREATE debug\liblibxdiff.a
+ADDMOD debug\xadler32.o
+ADDMOD debug\xalloc.o
+ADDMOD debug\xbdiff.o
+ADDMOD debug\xbpatchi.o
+ADDMOD debug\xdiffi.o
+ADDMOD debug\xemit.o
+ADDMOD debug\xmerge3.o
+ADDMOD debug\xmissing.o
+ADDMOD debug\xpatchi.o
+ADDMOD debug\xprepare.o
+ADDMOD debug\xrabdiff.o
+ADDMOD debug\xutils.o
+ADDMOD debug\xversion.o
+SAVE

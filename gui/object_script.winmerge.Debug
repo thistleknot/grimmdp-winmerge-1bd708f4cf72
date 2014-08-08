@@ -1,0 +1,15 @@
+INPUT(
+./temp\dircompare.o
+./temp\filecompare.o
+./temp\libxdiff_tools.o
+./temp\aboutdialog.o
+./temp\main.o
+./temp\mainwindow.o
+./temp\opendialog.o
+./temp\openfilesdialog.o
+./temp\qrc_gui.o
+./temp\moc_aboutdialog.o
+./temp\moc_mainwindow.o
+./temp\moc_opendialog.o
+./temp\moc_openfilesdialog.o
+);
